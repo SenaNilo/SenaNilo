@@ -3,7 +3,7 @@
 - 🎓 Formado em Técnico em Desenvolvimento de Sistemas pela Etec Dra. Ruth Cardoso
 - 🌱 Estudo para me tornar um Full-Stack: HTML, CSS, Javascript, PHP, SQL e C#
 - 📫 Contate-me no email: danilo.sena005@gmail.com
-- 💻 Visite o meu <a href="[https://github.com/SenaNilo](https://senanilo.github.io/MeuPortfolio/ )">Portfólio!</a>
+- 💻 Visite o meu Portfólio: https://senanilo.github.io/MeuPortfolio/
  
 <div style="display: inline_block"><br>
 <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -17,6 +17,7 @@
 <div>
   <a href="https://github.com/SenaNilo">
   <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SenaNilo&layout=compact&langs_count=6&theme=tokyonight"/>
+   <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=seu-usuário-aqui&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
 </div>
 
 <!--
