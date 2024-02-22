@@ -1,8 +1,8 @@
-### Bem-vindo ao perfil do Hiago Costa Santos!
-- 🎓 Formado em Desenvolvimento de Sistemas pela Etec de Peruíbe
-- 🌱 Trabalhando com: PHP, Javascript, Python e C#
-- 💻 Principais Frameworks: Laravel e VueJS
-- 📫 Contate-me no email: hiago8cs@gmail.com
+### Bem-vindo ao perfil do Danilo De Sena Santos
+- 🎓 Cursando Sistemas Para Internet na Fatec Rubens Lara
+- 🎓 Formado em Técnico em Desenvolvimento de Sistemas pela Etec Dra. Ruth Cardoso
+- 🌱 Estudo para ser Full-Stack: HTML, CSS, Javascript, PHP, SQL
+- 📫 Contate-me no email: danilo.sena005@gmail.com
  
 <div style="display: inline_block"><br>
 <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -14,7 +14,7 @@
 <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/mysql/mysql-original-wordmark.svg">
 <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/nodejs/nodejs-original.svg">
 <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/react/react-original.svg">
-</div>
+</div> <br>
 
 <div>
   <a href="https://github.com/SenaNilo">
