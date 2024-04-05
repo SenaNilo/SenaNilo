@@ -2,7 +2,7 @@
 
 - 📚 Cursando Sistemas Para Internet na Fatec Rubens Lara
 - 🎓 Formado em Técnico em Desenvolvimento de Sistemas pela Etec Dra. Ruth Cardoso
-- 🌱 Estudo para me tornar um Full-Stack: HTML, CSS, Javascript, PHP, SQL e C#
+- 🌱 Estudando para me tornar Full-Stack: HTML, CSS, Javascript, PHP, SQL e C#
 - 📫 Contate-me no email: danilo.sena005@gmail.com
 - 💻 Visite o meu Portfólio: https://senanilo.github.io/MeuPortfolio/
  
